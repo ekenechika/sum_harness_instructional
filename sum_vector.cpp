@@ -21,3 +21,4 @@ double sum(int64_t N, double A[])
     }
     return total;
 }
+
