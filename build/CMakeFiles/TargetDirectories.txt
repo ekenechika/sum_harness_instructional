@@ -1,0 +1,6 @@
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/benchmark.dir
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/sum_direct.dir
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/sum_vector.dir
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/sum_indirect.dir
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/edit_cache.dir
+/Users/kenchika/Downloads/sum_harness_instructional-main/build/CMakeFiles/rebuild_cache.dir

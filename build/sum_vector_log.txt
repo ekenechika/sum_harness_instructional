@@ -1,0 +1,54 @@
+Working on problem size N=8388608 
+Inside sum_vector problem_setup, N=8388608 
+Inside sum_vector perform_sum, N=8388608 
+Sum result = 35184367894528.000000 
+Elapsed time = 0.007960 seconds
+MFLOP/s = 1053.845226
+Memory Bandwidth Utilized = 1.686152%
+Average Memory Latency = 0.948906 ns
+-----------------------------------------
+Working on problem size N=16777216 
+Inside sum_vector problem_setup, N=16777216 
+Inside sum_vector perform_sum, N=16777216 
+Sum result = 140737479966720.000000 
+Elapsed time = 0.014777 seconds
+MFLOP/s = 1135.360087
+Memory Bandwidth Utilized = 1.816576%
+Average Memory Latency = 0.880778 ns
+-----------------------------------------
+Working on problem size N=33554432 
+Inside sum_vector problem_setup, N=33554432 
+Inside sum_vector perform_sum, N=33554432 
+Sum result = 562949936644096.000000 
+Elapsed time = 0.029638 seconds
+MFLOP/s = 1132.142250
+Memory Bandwidth Utilized = 1.811428%
+Average Memory Latency = 0.883281 ns
+-----------------------------------------
+Working on problem size N=67108864 
+Inside sum_vector problem_setup, N=67108864 
+Inside sum_vector perform_sum, N=67108864 
+Sum result = 2251799780130816.000000 
+Elapsed time = 0.065085 seconds
+MFLOP/s = 1031.095706
+Memory Bandwidth Utilized = 1.649753%
+Average Memory Latency = 0.969842 ns
+-----------------------------------------
+Working on problem size N=134217728 
+Inside sum_vector problem_setup, N=134217728 
+Inside sum_vector perform_sum, N=134217728 
+Sum result = 9007199187632128.000000 
+Elapsed time = 0.236642 seconds
+MFLOP/s = 567.176275
+Memory Bandwidth Utilized = 0.907482%
+Average Memory Latency = 1.763120 ns
+-----------------------------------------
+Working on problem size N=268435456 
+Inside sum_vector problem_setup, N=268435456 
+Inside sum_vector perform_sum, N=268435456 
+Sum result = 36028796817637376.000000 
+Elapsed time = 0.657429 seconds
+MFLOP/s = 408.310945
+Memory Bandwidth Utilized = 0.653298%
+Average Memory Latency = 2.449114 ns
+-----------------------------------------

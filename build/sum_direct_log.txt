@@ -1,0 +1,54 @@
+Working on problem size N=8388608 
+Inside direct_sum problem_setup, N=8388608 
+Inside direct_sum perform_sum, N=8388608 
+Sum result = 8388608.000000 
+Elapsed time = 0.012441 seconds
+MFLOP/s = 674.271200
+Memory Bandwidth Utilized = 1.078834%
+Average Memory Latency = 1.483083 ns
+-----------------------------------------
+Working on problem size N=16777216 
+Inside direct_sum problem_setup, N=16777216 
+Inside direct_sum perform_sum, N=16777216 
+Sum result = 16777216.000000 
+Elapsed time = 0.018688 seconds
+MFLOP/s = 897.753425
+Memory Bandwidth Utilized = 1.436405%
+Average Memory Latency = 1.113892 ns
+-----------------------------------------
+Working on problem size N=33554432 
+Inside direct_sum problem_setup, N=33554432 
+Inside direct_sum perform_sum, N=33554432 
+Sum result = 33554432.000000 
+Elapsed time = 0.041830 seconds
+MFLOP/s = 802.161893
+Memory Bandwidth Utilized = 1.283459%
+Average Memory Latency = 1.246631 ns
+-----------------------------------------
+Working on problem size N=67108864 
+Inside direct_sum problem_setup, N=67108864 
+Inside direct_sum perform_sum, N=67108864 
+Sum result = 67108864.000000 
+Elapsed time = 0.105003 seconds
+MFLOP/s = 639.113778
+Memory Bandwidth Utilized = 1.022582%
+Average Memory Latency = 1.564667 ns
+-----------------------------------------
+Working on problem size N=134217728 
+Inside direct_sum problem_setup, N=134217728 
+Inside direct_sum perform_sum, N=134217728 
+Sum result = 134217728.000000 
+Elapsed time = 0.298773 seconds
+MFLOP/s = 449.229776
+Memory Bandwidth Utilized = 0.718768%
+Average Memory Latency = 2.226032 ns
+-----------------------------------------
+Working on problem size N=268435456 
+Inside direct_sum problem_setup, N=268435456 
+Inside direct_sum perform_sum, N=268435456 
+Sum result = 268435456.000000 
+Elapsed time = 0.516028 seconds
+MFLOP/s = 520.195524
+Memory Bandwidth Utilized = 0.832313%
+Average Memory Latency = 1.922354 ns
+-----------------------------------------
